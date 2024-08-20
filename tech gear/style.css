@@ -1,0 +1,78 @@
+
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+body {
+  font-family: "Roboto", sans-serif !important;
+}
+
+.navbar-brand {
+    font-size: 30px !important;
+}
+
+.head-section {
+    background-image: linear-gradient(180deg, #c4b6fd, #93acfc);
+}
+
+.nav-link {
+    font-size: 18px !important;
+    font-weight: 500 !important;
+}
+
+.nav-link:hover {
+    color: #0a58ca !important;
+}
+
+.card:hover {
+  background: #0a58ca;
+  color: white;
+}
+
+.Discover {
+  font-size: 74px;
+}
+
+.nav-link:hover {
+  color: #0a58ca;
+}
+
+p {
+  font-size: 18px;
+}
+.btn-primary {
+  background-color: #257dfd !important;
+  border: none;
+  border-radius: 10px;
+  color: white;
+}
+
+.blue-bg {
+  background-color: #0a58ca;
+  color: #fff;
+}
+
+.ionicons {
+  color: #0a58ca;
+  background-color: #f2f2f2;
+  padding: 10px;
+  height: 30px;
+  width: 30px;
+  margin-bottom: 12px;
+}
+
+.nav-tabs {
+  border: none;
+}
+
+.nav-tabs .active {
+  background-color: #0a58ca !important;
+  border: none;
+  color: #fff !important;
+}
+
+.footer-section {
+  background-color: #0a58ca !important;
+  border: none;
+  color: #fff !important;
+}
